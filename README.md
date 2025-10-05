@@ -1,34 +1,3 @@
-<table>
-  <tr>
-    <td valign="top">
-      Hi, I'm <b>Ayan Dutta</b>, a Software Architect, Instructor, and Content Creator.
-      <br/><br/>
-      I create practical, hands-on courses on <b>Java, Spring Boot, Debugging, Git, Python</b>, and more.
-      <p align="left">
-        <a href="https://www.youtube.com/@learningfromexperience" target="_blank">
-          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="My YouTube Channel"/>
-        </a>
-        <a href="https://www.linkedin.com/in/ayan-dutta-a41091b" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-        <a href="https://medium.com/@mrayandutta" target="_blank">
-          <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-        </a>
-        <a href="https://join.slack.com/t/learningfromexp/shared_invite/zt-1fnksxgd0-_jOdmIq2voEeMtoindhWrA" target="_blank">
-          <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
-        </a>
-      </p>
-    </td>
-    <td align="right" width="220">
-      <a href="https://www.udemy.com/user/ayandutta/">
-        <img src="https://img-c.udemycdn.com/user/200_H/5007784_d6b8.jpg" alt="Ayan Dutta - Instructor"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🔥 My Udemy Course Collection
 
 ⚡ **Note:** All courses below already have my **Referral Discount Code applied** – click directly to save on enrollment!
