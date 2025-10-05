@@ -20,12 +20,7 @@ I create practical, hands-on courses on **Java, Spring Boot, Debugging, Git, Pyt
 
 ---
 
-## 🔥 My Udemy Course Collection
-
-I am the creator of **LearningFromExperience**, where I share my knowledge through practical, hands-on courses.
-
-#### 🎟 Need a discount coupon?
-Feel free to reach out on [Slack](https://join.slack.com/t/learningfromexp/shared_invite/zt-1fnksxgd0-_jOdmIq2voEeMtoindhWrA) or email me at `j2eeexpert2015@gmail.com`.
+## 🔥 My Udemy Course Collection (All with Referral Code Included !)
 
 ### ⭐ Featured Courses
 
