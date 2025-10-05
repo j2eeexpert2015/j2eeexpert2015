@@ -1,6 +1,7 @@
-# Hi there, I'm Ayan Dutta 👋
+[![Ayan Dutta - Instructor](https://img-c.udemycdn.com/user/200_H/5007784_d6b8.jpg)](https://www.udemy.com/user/ayandutta/)
 
-I'm a Software Architect, Udemy instructor, and content creator . I create high-quality courses and tutorials with a focus on Java, Python, debugging, and developer productivity.
+Hi, I'm **Ayan Dutta**, a Software Architect, Instructor, and Content Creator.  
+I create practical, hands-on courses on **Java, Spring Boot, Debugging, Git, Python**, and more.
 
 <p align="left">
   <a href="https://www.youtube.com/@learningfromexperience" target="_blank">
