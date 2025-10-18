@@ -3,6 +3,10 @@
 🎯 **Click any course below to enroll with my Referral Discount Code already applied** – save instantly on every course!
 
 💡 **Got Udemy Business at work?** You're in luck! Most courses below are included in your subscription – look for the `⭐ UDEMY BUSINESS` badge
+## 🎟 Need a Coupon?
+Request via [Slack](https://join.slack.com/t/learningfromexp/shared_invite/zt-1fnksxgd0-_jOdmIq2voEeMtoindhWrA) or email `j2eeexpert2015@gmail.com`.
+
+---
 
 ### ⭐ Featured Courses
 
