@@ -1,29 +1,8 @@
 ## 🔥 My Udemy Course Collection
 
-<div align="center">
+🎯 **Click any course below to enroll with my Referral Discount Code already applied** – save instantly on every course!
 
-### 💰 **SPECIAL OFFER:** All courses already have my **Referral Discount Code** applied!
-🎉 **Click any course link below to save instantly on enrollment!** 🎉
-
-</div>
-
----
-
----
-
-<div align="center">
-
-## 💼 **UDEMY FOR BUSINESS USERS**
-
-### 🎯 Most of my courses are included in the **Udemy Business** catalog!
-
-**Look for the** `⭐ UDEMY BUSINESS` **badge below each course**
-
-</div>
-
----
-
----
+💡 **Got Udemy Business at work?** You're in luck! Most courses below are included in your subscription – look for the `⭐ UDEMY BUSINESS` badge
 
 ### ⭐ Featured Courses
 
