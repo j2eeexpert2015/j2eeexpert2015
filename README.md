@@ -1,8 +1,9 @@
-# 🎓 LearningFromExperience – All Course Collection
+# 🎓 LearningFromExperience – Java, Spring Boot, Testcontainers, GitHub Desktop & Python Debugging Course Collection
 
 🎯 **Click any course below to enroll with my Referral Discount Code already applied** – save instantly on every course!
 
 💡 **Got Udemy Business at work?** You're in luck! Most courses below are included in your subscription – look for the `⭐ UDEMY BUSINESS` badge
+
 ## 🎟 Need a Coupon?
 Request via [Slack](https://join.slack.com/t/learningfromexp/shared_invite/zt-1fnksxgd0-_jOdmIq2voEeMtoindhWrA) or email `j2eeexpert2015@gmail.com`.
 
@@ -185,7 +186,10 @@ Request via [Slack](https://join.slack.com/t/learningfromexp/shared_invite/zt-1f
     </td>
   </tr>
 </table>
+---
 
+### 🔑 Keywords for Better Reach
+Java 21 • Spring Boot 3 • Testcontainers • Integration Testing • Virtual Threads • Structured Concurrency • IntelliJ IDEA • Eclipse IDE • Visual Studio Code • GitHub Desktop • Python Debugging • JUnit • Maven • Docker • Microservices • Cloud Functions (AWS / Azure / GCP) • Udemy Business Instructor
 ---
 
 ### 📊 My GitHub Stats
